@@ -65,5 +65,3 @@ src/
 
 - **GET** `https://jsonplaceholder.typicode.com/posts` — Lấy tất cả bài viết
 - **POST** `https://jsonplaceholder.typicode.com/posts` — Tạo bài viết mới
-
-> **Lưu ý:** JSONPlaceholder là API giả lập. Request POST trả về response nhưng không thực sự lưu dữ liệu trên server. Bài viết mới chỉ được thêm vào Redux state ở phía client.
