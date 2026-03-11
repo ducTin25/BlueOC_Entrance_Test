@@ -4,10 +4,6 @@
 
 ## Cách tiếp cận & Kiến trúc
 
-### Tại sao dùng Redux Toolkit?
-
-Thay vì dùng Redux truyền thống (phải viết riêng action types, action creators, reducers), project này sử dụng **Redux Toolkit** — cách viết Redux được **chính thức khuyến nghị**. Nó giúp giảm đáng kể lượng code lặp lại mà vẫn giữ nguyên mô hình quản lý state.
-
 ### Luồng dữ liệu
 
 ```
